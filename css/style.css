@@ -11,26 +11,19 @@
 }
 
 img{
+    display:block;
     margin:auto;
-    height:100%;
-    width:100%;
-
+    max-width:300px;
 }
 
 input{
     margin:auto;
     margin-bottom:2%;
     display:block;
-    
-    
 }
 
 .formu{
     margin-bottom:3%;
     text-align: center;
     Color:silver;
-}
-
-.date{
-    padding-left: 3%;
 }
