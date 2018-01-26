@@ -16,3 +16,21 @@ img{
     width:100%;
 
 }
+
+input{
+    margin:auto;
+    margin-bottom:2%;
+    display:block;
+    
+    
+}
+
+.formu{
+    margin-bottom:3%;
+    text-align: center;
+    Color:silver;
+}
+
+.date{
+    padding-left: 3%;
+}
