@@ -27,3 +27,6 @@ input{
     text-align: center;
     Color:silver;
 }
+td{
+    border: 1px solid black;
+}
